@@ -1,4 +1,4 @@
-package co.develhope.customQueries01.entities;
+package co.develhope.customQueries02.entities;
 
 import javax.persistence.*;
 

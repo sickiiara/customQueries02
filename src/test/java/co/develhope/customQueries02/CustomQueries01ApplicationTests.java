@@ -1,4 +1,4 @@
-package co.develhope.customQueries01;
+package co.develhope.customQueries02;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
